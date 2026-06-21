@@ -1,0 +1,14 @@
+streamlit
+xarray
+netcdf4
+dask
+numpy
+pandas
+scipy
+scikit-learn
+plotly
+geopandas
+shapely
+rasterio
+folium
+streamlit-folium
